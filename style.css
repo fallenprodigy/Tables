@@ -1,0 +1,12 @@
+table,
+td,
+tr,
+th {
+  border: solid 0.5px;
+  border-collapse: collapse;
+  padding: 7px;
+  text-align: left;
+}
+.col3 {
+  text-align: center;
+}
