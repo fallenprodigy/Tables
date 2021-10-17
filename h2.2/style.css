@@ -1,0 +1,80 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+* {
+  box-sizing: border-box;
+}
+.everything {
+  width: 400px;
+  height: 700px;
+  border-style: solid;
+  border-color: rgb(119, 86, 238);
+  border-radius: 5px;
+  border-width: 10px;
+}
+.header1 {
+  width: 381px;
+  height: 65px;
+  border-style: solid;
+  border-color: rgba(31, 160, 31, 0.705);
+  border-width: 4px;
+}
+nav {
+  width: 381px;
+  height: 35px;
+  border-style: solid;
+  border-color: rgb(240, 23, 193);
+  border-width: 4px;
+}
+.content {
+  display: flex;
+  width: 100%;
+}
+
+article {
+  /* display: flex; */
+  /* flex-wrap: wrap; */
+  /* width: 260px; */
+  width: 70%;
+  height: 545px;
+  border: solid;
+  border-color: rgb(71, 185, 252);
+  border-width: 4px;
+}
+header {
+  width: 100%;
+  height: 13%;
+  border: goldenrod solid 4px;
+}
+section {
+  position: static;
+  width: 100%;
+  height: 13%;
+  border: steelblue solid 4px;
+}
+footer {
+  width: 100%;
+  height: 10%;
+  border: gold solid 4px;
+}
+div {
+  width: 30%;
+  height: 545px;
+  border-style: solid;
+  border-color: rgba(31, 160, 31, 0.705);
+  border-width: 4px;
+}
+aside {
+  width: 100%;
+  height: 48%;
+  border: pink solid 4px;
+}
+.footer {
+  width: 100%;
+  height: 37px;
+  border-style: solid;
+  border-color: yellow;
+  border-width: 5px;
+}
